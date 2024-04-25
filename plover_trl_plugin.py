@@ -1230,8 +1230,6 @@ KEYMAPS = {
     },
 
 
-DICTIONARIES_ROOT = 'asset:plover_trl:assets'
+DICTIONARIES_ROOT = 'asset:plover:assets'
 
-DEFAULT_DICTIONARIES = (
-    'allwords.txt',
-)
+DEFAULT_DICTIONARIES = ()
